@@ -2,6 +2,7 @@
 This guide show how to setup aws chabot with your slack to allow you execute remote commands directly to AWS from your slack #channel.
 
 Reference guide: 
+
 https://aws.amazon.com/blogs/devops/running-aws-commands-from-slack-using-aws-chatbot/
 https://docs.aws.amazon.com/chatbot/latest/adminguide/chatbot-cli-commands.html
 
@@ -50,7 +51,7 @@ IF you are in AWS Bitrock, you already have the IAM role created .
     (If you want to see the policy role, search this role in the  IAM services) 
 
 
-<img src="test-aws-chabot-slack/images/picture1.png" width="100" height=80">
+<img src="https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png" width="100" height=80" >
 
 <img src="images/picture2.png" width="100" height=80">
 
