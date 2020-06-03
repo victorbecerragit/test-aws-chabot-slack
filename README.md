@@ -8,7 +8,6 @@ https://docs.aws.amazon.com/chatbot/latest/adminguide/chatbot-cli-commands.html
 
 Before start ,  in your slack workspace you need to create a new “private” channel to communicate with aws chabot.
 
-<img src="images/picture1.png" width="100" height=80">
                                                                            
 Prerequisites
 To follow along with this example, you need an AWS account, as well as a Slack channel to configure with AWS Chatbot.
@@ -53,18 +52,18 @@ IF you are in AWS Bitrock, you already have the IAM role created .
     (If you want to see the policy role, search this role in the  IAM services) 
 
 
-<img src="https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png" width="100" height=80" >
+<img src="https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png" raw=true alt=“Subject Pronouns” style=“margin-right: 10px;” />
 
-<img src="images/picture2.png" width="100" height=80">
+<img src="images/picture2.png" width="100" height=80"/>
 
-<img src="images/picture4.png" width="100" height=80">
+<img src="images/picture4.png" width="100" height=80"/>
 
 Save configuration.
 
 After that, you will see the new channel just created.
 
 
-<img src="images/picture3.png" width="100" height=80">
+<img src="images/picture3.png" width="100" height=80"/>
 
 
 From here, continue with step 2, invite @aws in your slack channel.
