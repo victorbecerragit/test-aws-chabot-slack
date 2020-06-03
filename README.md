@@ -8,6 +8,8 @@ https://docs.aws.amazon.com/chatbot/latest/adminguide/chatbot-cli-commands.html
 
 Before start ,  in your slack workspace you need to create a new “private” channel to communicate with aws chabot.
 
+<img src="images/picture1.png" width="100" height=80">
+                                                                           
 Prerequisites
 To follow along with this example, you need an AWS account, as well as a Slack channel to configure with AWS Chatbot.
 AWS Chabot is a global services.
