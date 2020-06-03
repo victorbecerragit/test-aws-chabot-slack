@@ -52,7 +52,7 @@ IF you are in AWS Bitrock, you already have the IAM role created .
     (If you want to see the policy role, search this role in the  IAM services) 
 
 
-<img src="https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png" raw=true alt=“Subject Pronouns” style=“margin-right: 10px;” />
+![picture 1](https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png)
 
 <img src="images/picture2.png" width="100" height=80"/>
 
