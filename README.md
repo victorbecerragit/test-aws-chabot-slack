@@ -50,7 +50,7 @@ IF you are in AWS Bitrock, you already have the IAM role created .
     (If you want to see the policy role, search this role in the  IAM services) 
 
 
-<img src="images/picture1.png" width="100" height=80">
+<img src="test-aws-chabot-slack/images/picture1.png" width="100" height=80">
 
 <img src="images/picture2.png" width="100" height=80">
 
