@@ -54,16 +54,19 @@ IF you are in AWS Bitrock, you already have the IAM role created .
 
 ![picture 1](https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture1.png)
 
-<img src="images/picture2.png" width="100" height=80"/>
 
-<img src="images/picture4.png" width="100" height=80"/>
+![picture 2](https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture2.png)
+
+
+![picture 3](https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture3.png)
+
 
 Save configuration.
 
 After that, you will see the new channel just created.
 
 
-<img src="images/picture3.png" width="100" height=80"/>
+![picture 4](https://github.com/victorbecerragit/test-aws-chabot-slack/blob/master/images/picture4.png)
 
 
 From here, continue with step 2, invite @aws in your slack channel.
